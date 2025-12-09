@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SugestorBase
+comment0.text=\r\n\ Classe\ Abstrata\ base\ para\ todos\ os\ sugestores\ de\ receitas\ (Pilar\:\ Abstra\u00E7\u00E3o\ e\ Heran\u00E7a).\r\n\ Cont\u00E9m\ a\ l\u00F3gica\ de\ comunica\u00E7\u00E3o\ HTTP\ comum\ a\ todas\ as\ implementa\u00E7\u00F5es.\r\n
+comment1.params=ingredientes\ restricaoAlimentar\ tipoRefeicao
+comment1.target=java.lang.String\ sugerir(java.util.List,\ java.lang.String,\ java.lang.String)
+comment2.params=jsonInputString
+comment2.target=java.lang.String\ enviarRequisicao(java.lang.String)
+comment3.params=respostaJson
+comment3.target=java.lang.String\ extrairConteudo(java.lang.String)
+numComments=4

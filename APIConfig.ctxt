@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=APIConfig
+comment0.text=\r\n\ Classe\ para\ centralizar\ a\ configura\u00E7\u00E3o\ da\ API.\r\n\ ATEN\u00C7\u00C3O\:\ \u00C9\ aqui\ que\ voc\u00EA\ deve\ inserir\ sua\ chave\ Groq.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getApiKey()
+comment2.params=
+comment2.target=java.lang.String\ getModelName()
+numComments=3

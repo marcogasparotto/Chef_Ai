@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=SugestorSimples
+comment0.text=\r\n\ Classe\ concreta\ que\ herda\ de\ SugestorBase\ (Pilar\:\ Heran\u00E7a\ e\ Polimorfismo).\r\n\ Implementa\ a\ l\u00F3gica\ espec\u00EDfica\ de\ constru\u00E7\u00E3o\ do\ prompt.\r\n
+comment1.params=ingredientes\ restricaoAlimentar\ tipoRefeicao
+comment1.target=java.lang.String\ sugerir(java.util.List,\ java.lang.String,\ java.lang.String)
+comment2.params=promptUsuario
+comment2.target=java.lang.String\ montarJsonRequisicao(java.lang.String)
+numComments=3

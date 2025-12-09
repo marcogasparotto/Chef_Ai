@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ChefAI
+comment0.text=\r\n\ ChefAI\ -\ Sugestor\ de\ Receitas\ Inteligente\r\n\ Classe\ principal\ para\ execu\u00E7\u00E3o.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ executar()
+comment3.params=
+comment3.target=void\ coletarIngredientes()
+numComments=4
